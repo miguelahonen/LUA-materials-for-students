@@ -1,0 +1,11 @@
+Remember this:
+
+function init()
+     print("init");
+end
+
+block = {
+     startup = init
+}
+
+block.startup()
