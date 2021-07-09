@@ -84,6 +84,5 @@ Wall
 * Game Programming
 
 Solar2D
-
-Moai SDK
+Löve SDK
 ]]
